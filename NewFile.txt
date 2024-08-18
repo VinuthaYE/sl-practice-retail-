@@ -1,4 +1,6 @@
 hi
 hello
 welcome to all
+good morning
+today we are going to speak about git
 bye
