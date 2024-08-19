@@ -6,3 +6,6 @@ today we are going to speak about git
 bye
 welcome back again
 its not finished
+
+adding new lines to whole sale
+and trying again
